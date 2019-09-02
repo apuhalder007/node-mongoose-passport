@@ -1,0 +1,3 @@
+1) start mongodb first by 'sudo service mongod start'
+
+2) then 'npm start'
